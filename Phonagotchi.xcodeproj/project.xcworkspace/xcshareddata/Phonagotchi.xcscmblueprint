@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "83A40FCE482125C9818E69F0D8672DCC4DB19C52",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "68F5FE3781B0D00AF9A08043D8EEF77EB562F27F" : 0,
+    "83A40FCE482125C9818E69F0D8672DCC4DB19C52" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4BC1F725-D9E0-4BBE-AAF9-A94EC1CE3032",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "68F5FE3781B0D00AF9A08043D8EEF77EB562F27F" : "",
+    "83A40FCE482125C9818E69F0D8672DCC4DB19C52" : "iOS-Student-Phonagotchi"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Phonagotchi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Phonagotchi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rmoj\/autolayout-storyboard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "68F5FE3781B0D00AF9A08043D8EEF77EB562F27F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-Phonagotchi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "83A40FCE482125C9818E69F0D8672DCC4DB19C52"
+    }
+  ]
+}
